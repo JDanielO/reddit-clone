@@ -26,3 +26,17 @@ Things you may want to cover:
 
 Please feel free to use a different markup language if you do not plan to run
 <tt>rake doc:app</tt>.
+
+Basic list of what the user should be able to do
+
+* Create new posts
+
+* View all posts ordered by upvotes
+
+* Add comments about a given post
+
+* View comments for a given post
+
+* Upvote posts and comments
+
+* Create a user authentication system using Devise
