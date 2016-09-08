@@ -15,6 +15,8 @@ gem 'jbuilder', '~> 2.0'
 gem 'sdoc', '~> 0.4.0', group: :doc
 # angular rails templates
 gem 'angular-rails-templates', '~> 1.0'
+# Allow controllers to respond to JSON
+gem 'responders', '~> 2.2'
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
