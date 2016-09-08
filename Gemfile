@@ -17,6 +17,8 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 gem 'angular-rails-templates', '~> 1.0'
 # Allow controllers to respond to JSON
 gem 'responders', '~> 2.2'
+# AngularJS style CSRF protection for Rails
+gem 'angular_rails_csrf', '~> 1.0', '>= 1.0.4'
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
