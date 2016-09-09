@@ -19,6 +19,8 @@ gem 'angular-rails-templates', '~> 1.0'
 gem 'responders', '~> 2.2'
 # AngularJS style CSRF protection for Rails
 gem 'angular_rails_csrf', '~> 1.0', '>= 1.0.4'
+# Flexible authentication solution for Rails with Warden
+gem 'devise', '~> 4.2'
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
